@@ -1,5 +1,8 @@
 # 360degree-Reality2Virtuality
-The art of the fusion of reality &amp; virtuality
+All about the art of the fusion of reality &amp; virtuality
+
+![alt text](assets/demo_001.JPG)
+
 
 ## About
 For the course ["360°-Reality to Virtuality"](https://www.360.ethz.ch/) at ETH Zurich.
